@@ -2,7 +2,7 @@
  Analysis and visualization of parking tickets in NYC during 2015 and 2017. <br /> <br />
 
 This project was done as a final project of Business Analyst Course. <br />
-The data was taken from NYCOpenData and modified into SQL database, for the students' use. <br /> <br />
+The data was taken from NYCOpenData and stored in the SQL database, for the students' use. <br /> <br />
 
 The analysis was done using mostly Power BI and was divided to 5 different reports.<br /><br />
 
